@@ -15,7 +15,7 @@ Portal F conectează mai multe proiecte educaționale independente:
 
 1. **portal-f.github.io** (acest proiect) - Landing page principal
 2. **stiri-simple.github.io** - Știri românești simplificate  
-3. **lectii-engleza.github.io/incepatori** - Lecții de engleză pentru începători
+3. **audio-engleza.github.io** - Lecții de engleză audio pentru începători
 
 ## 🚀 Funcționare
 
@@ -28,7 +28,7 @@ Fiecare link din portal adaugă parametrul `?portal=https://portal-f.github.io` 
 
 - **Portal Principal**: https://portal-f.github.io
 - **Știri Simple**: https://stiri-simple.github.io  
-- **Lecții Engleză**: https://lectii-engleza.github.io/incepatori
+- **Lecții Engleză**: https://audio-engleza.github.io
 
 ## 📱 Caracteristici
 

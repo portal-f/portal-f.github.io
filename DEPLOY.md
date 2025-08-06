@@ -57,13 +57,13 @@ git push
 
 ### Link-urile nu funcționează?
 - Verifică că știrile sunt la: https://stiri-simple.github.io
-- Verifică că lecțiile sunt la: https://lectii-engleza.github.io/incepatori
+- Verifică că lecțiile sunt la: https://audio-engleza.github.io
 
 ## 🌐 URL-uri Finale
 
 - **Portal F**: https://portal-f.github.io
 - **Știri (cu back button)**: https://stiri-simple.github.io/?portal=https://portal-f.github.io
-- **Lecții (cu back button)**: https://lectii-engleza.github.io/incepatori/?portal=https://portal-f.github.io
+- **Lecții (cu back button)**: https://audio-engleza.github.io/?portal=https://portal-f.github.io
 
 ---
 *Notă: Pentru organizații GitHub, repository-ul `[org-name].github.io` este servit automat ca GitHub Pages*
